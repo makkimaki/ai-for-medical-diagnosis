@@ -4,4 +4,4 @@
 
 ## Summary of content
 Please see the link below.(I wrote in Japanese)  
-- [Qiita (under constructiong)]()
+- [Qiita (under construction)]()
